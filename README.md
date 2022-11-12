@@ -23,7 +23,7 @@ The service can be configured via AppSettings.config file
 * ServiceName - _The name of the service_
 * ServiceDisplayName - _The display name for the Service_
 * ServiceDescription - _Provide a description of the service_
-* DirectoryPath - _The Directory of Log Files_
+* DirectoryPath - _The Directory of Log Files_ **Default Path is set to C:\inetpub\logs\LogFiles**
 * FileExtension - _Provide the File extension with Example *.Log_
 * DaysToKeep - _The number of Days of Files to keep._
 * RunInterval - _Number of hours between each run._ 
