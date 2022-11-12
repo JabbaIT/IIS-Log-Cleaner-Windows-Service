@@ -9,9 +9,11 @@ This simple windows service will remove Ageing IIS Log files.
 ### Getting Started
 
 
-### AppSettings.config 
+## Configuration
 
 The service can be configured via AppSettings.config file 
+
+### AppSettings.config 
 
 * ServiceName - The name of the service
 * ServiceDisplayName - The display name for the Service
