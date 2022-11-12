@@ -35,6 +35,7 @@ The service can be configured via AppSettings.config file
 * AppLogSourceName - _The name of source within Application Logs_ - **Default:** Set to `IISLogCleaner`
 
 ## Limitations
-- Within this version
--- it does not record the files it deletes
 
+### Within this version
+- It does not outpu a record of the files it deletes
+- No Backup or Archiving Option(s)
