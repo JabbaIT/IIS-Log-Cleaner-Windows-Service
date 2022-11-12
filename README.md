@@ -8,6 +8,9 @@ This simple windows service will remove Ageing IIS Log files.
 
 ### Getting Started
 
+* Open up the solution within Visual Studio and build the project
+* Within the <Project>\bin\ folder you can install and uninstall compiled Windows Service
+
 ## To Install 
 To install open up a CMD prompt run `IISLogsCleanerService.exe install` within project directory. 
 
