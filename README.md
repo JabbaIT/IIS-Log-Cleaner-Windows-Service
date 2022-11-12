@@ -1,8 +1,11 @@
-# IISLogCleanerService
+# IIS Log Cleaner Service
  
-## Description
+### SYNOPSIS
 
-This simple windows service will remove Ageing IIS Log files. 
+A simple windows service will remove ageing IIS Log files . 
+
+### Description
+A Windows Service built using TopShelf package to delete IIS Log files from defined folder location `DirectoryPath`, for on defined 'DaysToKeep' number of days. 
 
 ## INFO 
 
