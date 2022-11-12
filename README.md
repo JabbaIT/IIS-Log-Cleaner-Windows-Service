@@ -1,10 +1,8 @@
-# IISLogCleanerService
-	IIS Log Cleaner Windows Service
+#IISLogCleanerService
  
- #Description
+##Description
 	This windows service will remove ageing IIS Log files. 
 
+##INFO 
 
-#INFO 
-
-## Getting Started
+### Getting Started
