@@ -1,0 +1,9 @@
+C:\Code\Services\CMSServices\IISLogsCleanerService\bin\Debug\IISLogsCleanerService.exe.config
+C:\Code\Services\CMSServices\IISLogsCleanerService\bin\Debug\IISLogsCleanerService.exe
+C:\Code\Services\CMSServices\IISLogsCleanerService\bin\Debug\IISLogsCleanerService.pdb
+C:\Code\Services\CMSServices\IISLogsCleanerService\bin\Debug\Topshelf.dll
+C:\Code\Services\CMSServices\IISLogsCleanerService\bin\Debug\Topshelf.xml
+C:\Code\Services\CMSServices\IISLogsCleanerService\obj\Debug\IISLogsCleanerService.csproj.CoreCompileInputs.cache
+C:\Code\Services\CMSServices\IISLogsCleanerService\obj\Debug\IISLogsCleanerService.csproj.CopyComplete
+C:\Code\Services\CMSServices\IISLogsCleanerService\obj\Debug\IISLogsCleanerService.exe
+C:\Code\Services\CMSServices\IISLogsCleanerService\obj\Debug\IISLogsCleanerService.pdb
