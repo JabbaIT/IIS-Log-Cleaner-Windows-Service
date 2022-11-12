@@ -37,5 +37,6 @@ The service can be configured via AppSettings.config file
 ## Limitations
 
 ### Version 1.0
-- It does not outpu a record of the files it deletes
+- It does not output a record of the files it deletes
 - No Backup or Archiving Option(s)
+- Application Log Entries that are made are for Install, Unintsall, Start and Stopping the service.
