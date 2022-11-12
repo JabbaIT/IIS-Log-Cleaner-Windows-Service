@@ -36,6 +36,6 @@ The service can be configured via AppSettings.config file
 
 ## Limitations
 
-### Within this version
+### Version 1.0
 - It does not outpu a record of the files it deletes
 - No Backup or Archiving Option(s)
