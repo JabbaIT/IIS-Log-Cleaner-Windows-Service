@@ -20,12 +20,12 @@ To uninstall open up a CMD prompt run `IISLogsCleanerService.exe uninstall` with
 
 The service can be configured via AppSettings.config file 
 
-* ServiceName - _The name of the service_
-* ServiceDisplayName - _The display name for the Service_
-* ServiceDescription - _Provide a description of the service_
-* DirectoryPath - _The Directory of Log Files_ **Default Path is set to C:\inetpub\logs\LogFiles**
+* ServiceName - _The name of the service_ **Default: Set to IISLogCleaner **
+* ServiceDisplayName - _The display name for the Service_ **Default: Set to IIS Log Cleaner**
+* ServiceDescription - _Provide a description of the service_ **Default: Set to Clean Up Ageing Log Files**
+* DirectoryPath - _The Directory of Log Files_ **Default: Set to C:\inetpub\logs\LogFiles**
 * FileExtension - _Provide the File extension with Example *.Log_
-* DaysToKeep - _The number of Days of Files to keep._
-* RunInterval - _Number of hours between each run._ 
-* AppLogSourceName - _The name of source within Application Logs_
+* DaysToKeep - _The number of Days of Files to keep._ **Default: Set to 30**
+* RunInterval - _Number of hours between each run._**Default: Set to 24** 
+* AppLogSourceName - _The name of source within Application Logs_ **Default: Set to IISLogCleaner**
 
