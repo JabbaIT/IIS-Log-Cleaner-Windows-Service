@@ -5,7 +5,8 @@
 A simple windows service will remove ageing IIS Log files . 
 
 ### Description
-A Windows Service built using TopShelf package to delete IIS Log files from defined folder location `DirectoryPath`, for on defined 'DaysToKeep' number of days. 
+A Windows Service built using TopShelf package to delete IIS Log files from defined folder location `DirectoryPath`. 
+This will remove old log files older than the `DaysToKeep` settings. 
 
 ## INFO 
 
