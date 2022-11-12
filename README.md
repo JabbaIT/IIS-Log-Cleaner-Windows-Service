@@ -9,25 +9,23 @@ This simple windows service will remove Ageing IIS Log files.
 ### Getting Started
 
 ## To Install 
-To install within CMD prompt run `IISLogsCleanerService.exe install`
+To install open up a CMD prompt run `IISLogsCleanerService.exe install` within project directory. 
 
 _This will install the service and startup type is manual._
 
 ## To Uninstall
-To uninstall within CMD prompt run `IISLogsCleanerService.exe uninstall`
+To uninstall open up a CMD prompt run `IISLogsCleanerService.exe uninstall` within the project direcotry
 
-## Configuration
+## Appsettings.config Settings
 
 The service can be configured via AppSettings.config file 
 
-### AppSettings.config 
-
-* ServiceName - The name of the service
-* ServiceDisplayName - The display name for the Service
-* ServiceDescription - Provide a description of the service
-* DirectoryPath - The Directory of Log Files
-* FileExtension - Provide the File extension with Example *.Log
-* DaysToKeep - The number of Days of Files to keep.
-* RunInterval - Number of hours between each run. 
-* AppLogSourceName - The name of source within Application Logs
+* ServiceName - _The name of the service_
+* ServiceDisplayName - _The display name for the Service_
+* ServiceDescription - _Provide a description of the service_
+* DirectoryPath - _The Directory of Log Files_
+* FileExtension - _Provide the File extension with Example *.Log_
+* DaysToKeep - _The number of Days of Files to keep._
+* RunInterval - _Number of hours between each run._ 
+* AppLogSourceName - _The name of source within Application Logs_
 
