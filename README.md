@@ -9,9 +9,9 @@ This simple windows service will remove Ageing IIS Log files.
 ### Getting Started
 
 ## To Install 
-To install within CMD prompt run IISLogsCleanerService.exe install
+To install within CMD prompt run `IISLogsCleanerService.exe install`
 
-(`IISLogsCleanerService.exe install`)
+
 
 **_This will install the service and startup type is manual._**
 
